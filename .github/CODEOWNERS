@@ -1,0 +1,7 @@
+.github/ @Ricky-Claw
+src/ @Ricky-Claw
+
+# Require review for critical files
+package.json @Ricky-Claw
+tsconfig.json @Ricky-Claw
+next.config.js @Ricky-Claw
